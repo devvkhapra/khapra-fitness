@@ -43,7 +43,7 @@ export default function AboutPage() {
             <div className="space-y-4">
               <h2 className="text-3xl font-bold tracking-tighter">Our Story</h2>
                 <p className="text-zinc-400">
-                Khapra was created as my live project during my university semester. What started as an academic 
+                Khapra Fitness was created as my live project during my university semester. What started as an academic 
                 endeavor has evolved into a comprehensive fitness platform that combines my passion for fitness 
                 with practical application of the skills I developed during my studies.
                 </p>
